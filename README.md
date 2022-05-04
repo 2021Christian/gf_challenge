@@ -35,6 +35,7 @@ Para el desarrollo se utlizó:
 
 > Ahora ya se encuentra todo listo para poder trabajar sobre el.
 > Desde la consola puede ejecutar el servidor con:
+
     php artisan serve
 
 >>> enjoy coding!
